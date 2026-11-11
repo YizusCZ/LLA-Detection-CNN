@@ -1,0 +1,20 @@
+# Credenciales
+.env
+kaggle.json
+.kaggle/
+
+# Datos y resultados generados al ejecutar el notebook
+data/
+resultados/
+*.keras
+*.tflite
+*.pt
+saved_model/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+~$*
+.DS_Store
+Thumbs.db
